@@ -1,4 +1,4 @@
-![image](https://github.com/elliana-wt/Pixel-Launcher-Icons/blob/main/otherimg/banner.png)
+![image](https://github.com/elliana-wt/Pixel-Launcher-Icons/blob/main/otherimg/githubbanner.png)
 
 # Pixel 启动器图标补全计划
 
